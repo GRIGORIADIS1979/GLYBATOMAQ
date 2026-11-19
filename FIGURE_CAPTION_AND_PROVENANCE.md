@@ -1,0 +1,5 @@
+# Graphical abstract and figure audit
+
+**Graphical abstract.** GLYBATOMAQ combines four source-defined HSX molecular graph records with an HMC pharmacophore role path, normalized operator overlap geometry, Hermitian CTQW–MQWalk propagation and an optional symmetric teleport edge coupling. Source-defined ranking inputs are combined through frozen weighted proxy-support channels and a deterministic MBHA elite-attraction demonstration to yield traceable *in silico* prioritization hypotheses. Protein structures 3Q2U/3Q2R provide GLIPR1 context; PDB 2GLI belongs to a distinct GLI–DNA receptor context. Figure artwork illustrates the workflow and should be interpreted alongside the numerical CSV provenance.
+
+The figures in `figures/main/` were assembled from manuscript artwork and companion mathematical graphics. They are **publication illustrations**, not independently executed docking or chemistry proof. Some earlier graphical-abstract variants contain schematic molecule drawings or plotted scores whose numerical values were not reproduced from original docking projects. They should not be mined as evidence without a source reconciliation pass.

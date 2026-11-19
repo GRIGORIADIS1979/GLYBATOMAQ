@@ -1,0 +1,5 @@
+candidate,source_mol2_file,n_atoms_in_source_record,n_heavy_atoms,n_bonds,source_formal_charge_sum,full_rdkit_sanitization,sanitize_error_excerpt,preferred_iupac_verified
+HSX-cons2,GLYBATOMAQ-HSX-cons1 (1).mol2,148,92,161,4,failed,non-ring atom 24 marked aromatic,false
+HSX-cons1,GLYBATOMAQ-HSX-cons1 (2).mol2,173,94,183,-4,failed,"Explicit valence for atom # 64 H, 5, is greater than permitted",false
+HSX-cons3,GLYBATOMAQ-HSX-cons3.mol2,150,91,161,5,failed,Can't kekulize mol.  Unkekulized atoms: 43,false
+HSX-cons4,GLYBATOMAQ-HSX-cons4.mol2,154,101,169,2,failed,non-ring atom 22 marked aromatic,false

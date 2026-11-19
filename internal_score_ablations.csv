@@ -1,0 +1,25 @@
+ablation,candidate,score,rank
+Full E2 fusion,HSX-cons2,0.8125,1
+Full E2 fusion,HSX-cons1,0.6057,2
+Full E2 fusion,HSX-cons3,0.44515000000000005,3
+Full E2 fusion,HSX-cons4,0.39705,4
+minus base,HSX-cons2,0.6125,1
+minus base,HSX-cons1,0.5133,2
+minus base,HSX-cons3,0.42355,3
+minus base,HSX-cons4,0.34065,4
+minus DFT-proxy,HSX-cons2,0.5625,1
+minus DFT-proxy,HSX-cons1,0.45844999999999997,2
+minus DFT-proxy,HSX-cons3,0.3689,4
+minus DFT-proxy,HSX-cons4,0.39380000000000004,3
+minus QMC proxy,HSX-cons2,0.6165,1
+minus QMC proxy,HSX-cons1,0.41889999999999994,2
+minus QMC proxy,HSX-cons3,0.26034999999999997,3
+minus QMC proxy,HSX-cons4,0.22064999999999999,4
+minus MQWalk,HSX-cons2,0.5820000000000001,1
+minus MQWalk,HSX-cons1,0.39744999999999997,2
+minus MQWalk,HSX-cons3,0.25065000000000004,3
+minus MQWalk,HSX-cons4,0.20205,4
+minus diagnostic penalty,HSX-cons2,0.8765000000000001,1
+minus diagnostic penalty,HSX-cons1,0.6347,2
+minus diagnostic penalty,HSX-cons3,0.47715,3
+minus diagnostic penalty,HSX-cons4,0.43105000000000004,4

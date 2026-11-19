@@ -1,0 +1,7 @@
+source_label,receptor_annotation,pocket,source_reported_score_kcal_mol,eligibility_for_GLIPR1_analysis
+HSX-CONS2,2GLI,C2/C5,-10.4,exclude_target_mismatch
+HSX-cons4,3Q2R,C1,-10.3,provenance_pending
+Bafetinib,2GLI,C1,-8.5,exclude_target_mismatch
+HSX-cons1,2GLI,C2,-7.7,exclude_target_mismatch
+Crenolanib,2GLI,C2,-7.6,exclude_target_mismatch
+Tovorafenib,2GLI,C2,-7.5,exclude_target_mismatch

@@ -1,0 +1,8 @@
+source_label,dockthor_affinity,receptor_pdb,raw_pose_available,chemical_identity_verified
+HSX-cons2,-9.100,3Q2R,false,false
+Vorasidenib,-8.350,3Q2R,false,true
+HSX-cons1,-8.295,3Q2R,false,false
+HSX-cons4,-8.289,3Q2R,false,false
+Carmustine,-7.976,3Q2R,false,true
+Temozolomide,-7.866,3Q2R,false,true
+HSZ-cons3,-7.793,3Q2R,false,false
